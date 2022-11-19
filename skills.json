@@ -1,0 +1,75 @@
+[
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+    },
+    {
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+    },
+    {
+        "name":"Machine Learning",
+        "icon":"https://img.icons8.com/dusk/48/000000/artificial-intelligence.png"
+    },
+    {
+        "name": "NLP",
+        "icon": "https://img.icons8.com/clouds/48/000000/google-translate.png"
+    },
+    {
+        "name": "Recommend System",
+        "icon": "https://img.icons8.com/external-flaticons-lineal-color-flat-icons/48/000000/external-recommendation-literature-flaticons-lineal-color-flat-icons-3.png"
+    },
+    {
+        "name": "Customer Segmentations",
+        "icon": "https://img.icons8.com/bubbles/48/000000/violet-shopping-basket.png"
+    },
+    {
+        "name": "Analytics & Insights",
+        "icon": "https://img.icons8.com/external-gradient-design-circle/48/000000/external-analytics-digitalization-and-industry-gradient-design-circle.png"
+    },
+    {
+        "name": "Statistics",
+        "icon": "https://img.icons8.com/clouds/48/000000/combo-chart.png"
+    },
+    {
+        "name": "Predictive Modelling",
+        "icon": "https://img.icons8.com/external-becris-flat-becris/48/000000/external-predictive-models-data-science-becris-flat-becris.png"
+    },
+    {
+        "name": "Predictive Analytics",
+        "icon": "https://img.icons8.com/external-flaticons-lineal-color-flat-icons/48/000000/external-prediction-data-analytics-flaticons-lineal-color-flat-icons.png"
+    },
+
+    {
+        "name": "Data Modelling",
+        "icon": "https://img.icons8.com/external-flaticons-lineal-color-flat-icons/48/000000/external-data-modelling-big-data-flaticons-lineal-color-flat-icons-2.png"
+    },
+    {
+        "name": "Data Story",
+        "icon": "https://img.icons8.com/bubbles/48/0000000/bar-chart.png"
+    },
+    {
+        "name": "Tableau",
+        "icon": "https://img.icons8.com/color/48/000000/tableau-software.png"
+    },
+    {
+        "name": "Power Bi",
+        "icon": "https://img.icons8.com/color/48/000000/power-bi.png"
+    },    
+    {
+        "name": "Heroku",
+        "icon": "https://img.icons8.com/color/48/000000/heroku.png"
+    },
+    {
+        "name": "Git",
+        "icon": "https://img.icons8.com/color/48/000000/git.png"
+    },
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    },
+    {
+        "name": "Django",
+        "icon": "https://img.icons8.com/color/48/000000/django.png"
+    }  
+]

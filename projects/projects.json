@@ -1,0 +1,32 @@
+[
+
+  {
+    "name": "Restaurant Rating Prediction",
+    "desc": "build an appropriate Machine Learning Model that will help various Zomato Restaurants to predict their respective Ratings based on certain features.",
+    "image": "instagrammern",
+    "category": "Machine Learning",
+    "links": {
+      "view": "https://zomato-rate-pred-mlalgo.herokuapp.com/",
+      "code": "https://github.com/Vaishnokmr/Restaurant-Rating-Prediction"
+    }
+  },
+  {
+    "name": "Car Selling Price Preditction",
+    "desc": "Full-Stack Flipkart with Admin Dashboard and Paytm Payment Gateway. MERN Stack WebApp, ready to use for business.",
+    "image": "demo",
+    "category": "Machine Learning",
+    "links": {
+      "view": "https://car-prediction-flask.herokuapp.com/",
+      "code": "https://github.com/Vaishnokmr/Predicting-car-sell-price-using-flask"
+    }
+  },
+  {
+    "name": "Business Analytics & Insights",
+    "desc": "ReactJS Basic Resume Generator which will generate customized resume in few minutes on your requirements.",
+    "image": "resumegen",
+    "category": "Data Science",
+    "links": {
+      "view": "https://public.tableau.com/app/profile/vaishno.kumar/viz/InsightsVisualization/Dashboard1?publish=yes",
+      "code": "https://github.com/Vaishnokmr/Business-Analytics-Insights"
+    }
+  }]
